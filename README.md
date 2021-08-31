@@ -3,7 +3,7 @@
 ## Its_me_Fatai
 
 <div align="center">
-  <img src=Screenshot_20210831-120658.jpg>
+  <img src=Screenshot_20210831-160423_1.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
