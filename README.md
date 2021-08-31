@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Koladhino
+### Its_me_Fatai
 
 
 ### ⚠️ Warning! 
@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Fatai](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
+  [![Fatai](<img src=https://www.linkpicture.com/q/Koladhino.jpg>
  https://github.com/Philipsmith617 |  
 ----|
 [Its_me_Fatai](https://github.com/Koladhino)  |
