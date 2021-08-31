@@ -1,6 +1,6 @@
 /* Copyright (C) 2020 farhan-dqz.
-re codded by Amal
-Amalser_v1 
+re codded by Philip
+Fatai
 */
 const fs = require('fs')
 const Asena = require('../events');
@@ -146,7 +146,7 @@ if(pattern.test(message.message)){
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '919895828468@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '+2348159983206@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/trance.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
 const array = ['ho','she','ra','mu','hot','ta','Cr7','uyir','power','va','wow','se','no','nanba','sebin','messi','maman','pha','oi','cha','muth','kiss','dey','ga','player','king','kayari','aliya','nari','omban','Hii','Da','sad','nee','myre','mood','bg','chunk','ser','kundan','sir','My','myr','umbi','bot','poda','git','alive','owner','neymar','list','help','oii','on','one','vanne','vannu','kozhi','set','Fuck','love','broke','ohoo','Bye','pne','left','Amal','don','onn','stop','setta','entry','muth','Hi','chaya']
