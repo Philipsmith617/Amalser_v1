@@ -46,7 +46,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   <div align="center">
     
   [![Fatai](<img src=https://www.linkpicture.com/q/Koladhino.jpg>
- https://github.com/Philipsmith617 |  
+ https://github.com/Philipsmith617/Fatai |  
 ----|
 [Its_me_Fatai](https://github.com/Koladhino)  |
 Base, Bug Fixes, Modules | 
