@@ -230,7 +230,7 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Fatai bot is completely up-to-date!*",
-            "NEW_UPDATE": "*Fatai Update und for updating command*\n\n*.update now*\n\n*please ask supporting group before updating, otherwise bot may have error*\n\nhttps://chat.whatsapp.com/HKWDIBNYUwc1nq80gzu3HN\n\nChanges:\n```",
+            "NEW_UPDATE": "*Fatai Update und for updating command*\n\n*.update now*\n\n*please ask supporting group before updating, otherwise bot may have error*\n\nhttps://chat.whatsapp.com/BzHIOupGLR53IACsSQHzZk\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..please wait bro 5mins😊```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
